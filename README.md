@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
-**TenMoons/TenMoons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a master majoring in Software Engineering in Northwestern Polytechnical University, China.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Golang, blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about any problem about School of Computer Science&Technology, Anhui University. Or you can find what you want in this repo: [AHU-CS-Repo](https://github.com/TenMoons/AHU-CS-Repository) .
+
+- 📫 How to reach me: tenmoons@foxmail.com or shiyueyue(wechat).
+
+  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TenMoons&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
