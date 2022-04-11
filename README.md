@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a master majoring in Software Engineering in Northwestern Polytechnical University, China.
-
-- 🌱 I’m currently learning Golang, blockchain.
+- 🌱 Gopher.
 
 - 💬 Ask me any problem about School of Computer Science&Technology, Anhui University. Or you can find what you want in this repo: [AHU-CS-Repo](https://github.com/TenMoons/AHU-CS-Repository) .
 
