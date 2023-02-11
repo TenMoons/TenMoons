@@ -4,7 +4,7 @@
 
 - 💬 Ask me any problem about School of Computer Science&Technology, Anhui University. Or you can find what you want in this repo: [AHU-CS-Repo](https://github.com/TenMoons/AHU-CS-Repository) .
 
-- 📫 How to reach me: tenmoons@foxmail.com or shiyueyue(wechat).
+- 📫 How to reach me: tenmoons@foxmail.com or _NoBoundaries(wechat).
 
   
 
